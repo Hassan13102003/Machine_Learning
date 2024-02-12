@@ -1,3 +1,6 @@
+# Using Gradient Descent Algorithm Find the minima of a uni-variate function:
+# 		 f(x)= x e^(-x^2),   -√1.5 ≤ x ≤ 0.
+
 import numpy as np
 import matplotlib.pyplot as plt
 
